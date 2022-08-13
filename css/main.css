@@ -102,16 +102,6 @@ img {
   display: block;
 }
 
-.container {
-  width: 1200px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-left: auto;
-  margin-right: auto;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
 .logo {
   font-family: "Raleway";
   font-weight: 700;
@@ -470,7 +460,7 @@ img {
   background-color: var(--accent-bg-color);
 }
 
-.descr__container {
+.descr {
   padding-bottom: 0;
 }
 

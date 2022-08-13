@@ -1,9 +1,10 @@
 .descr {
     @extend %section;
+    
+    padding-bottom: 0;
 }
 
 .descr__container {
-    padding-bottom: 0;
     @extend %container;
 }
 
